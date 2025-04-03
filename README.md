@@ -1,2 +1,2 @@
-# Spotify-clone
+# Spotify-but-Better
 spotify clone for mini projecr
